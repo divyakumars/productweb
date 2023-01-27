@@ -592,7 +592,7 @@ contact.html
 
 
 ## HTML Validator
-![Output](./valid9.png)
+![Output](./valido9.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
